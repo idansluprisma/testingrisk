@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cider-research/deppy#readme",
   "dependencies": {
-    "glob": "^8.0.3"
+    "glob": "^12.0.0"
   },
   "devDependencies": {
     "axios-mock-adapter": "^8.23.1"
